@@ -1,5 +1,4 @@
-# IOTanlysis.github.io
-Full analysis on data collected by Enviro pHAT sensors
+# Full analysis on data collected by Enviro pHAT sensors
 
 Analysis located in index.html. Accessible at https://grandpurpleocelot.github.io/IOTanlysis.github.io/
 
